@@ -1,1 +1,2 @@
-👋 Hi, I’m @hayounggkim
+:blush: Hi, I’m Hayoung
+:penguin:	:bird::duck::parrot::bug::bee:
